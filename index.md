@@ -1,5 +1,5 @@
 [//]:![](images\image1a.png)
-![](images\TXC-2026.png)
+![](images\image1a.png)
 
 [//]:![](images\2022-06-10_21-53-04.jpg)
 
@@ -18,19 +18,19 @@ We will cover all the various components that are part of Integration. We will a
 *  **IBM App Connect**
 *  **IBM API Connect**
 *  **IBM DataPower Gateway**
-*  **IBM Event Streams**
+*  **IBM Event Endpoint Management**
 *  **IBM MQ Advanced**
 *  **IBM Aspera High Speed Transfer Server**
 
 |  Workshops                                | Description                                                                
 |---------------------------------------|-----------------------------------------------------------------------------|
-| <a href="https://ibm-cloudintegration.github.io/CP4I-PoT-Public/" target="_blank">IBM Cloud Pak for Integration</a>        | IBM Cloud Pak for Integration is the industry’s most complete, container-based, cloud-portable integration platform that brings together API management, application integration, messaging, events — all running consistently across any hybrid or multi-cloud environment.<br>In this workshop we will be running labs using RedHat OpenShift containers. 
+| <a href="https://ibm-cloudintegration.github.io/CP4I-PoT-Public/" target="_blank">IBM Integration Software</a>        | IBM Integration software is the industry’s most complete, container-based, cloud-portable integration platform that brings together API management, application integration, messaging, events — all running consistently across any hybrid or multi-cloud environment.<br>In this workshop we will be running labs using RedHat OpenShift containers.
+|---------------------------------------|-----------------------------------------------------------------------------|
+<a href="https://ibm-cloudintegration.github.io/IWHI-PoT/" target="_blank">IBM Integration SaaS</a>           | IBM Integration SaaS is a unified, AI-powered integration platform as a service (iPaaS). It unifies APIs, applications, events, B2B/EDI transactions, and legacy systems (like mainframes) into a centralized control plane, and enables enterprise workflows to connect with autonomous AI agents.<br><br>**This lab environment and labs are still being worked on**  
 |---------------------------------------|-----------------------------------------------------------------------------|   
 |<a href="https://pages.github.ibm.com/americas-integration/AppConnect-CoE/" target="_blank">IBM App Connect</a>        | App Connect is the application and data integration engine inside IBM Cloud Pak for Integration and also standalone on VMs. It is designed for both business users (low-code) and professional developers (code-first).<br>In this workshop we will be running App Connect labs standalone in VMs.  <br><br>**This lab is still in private repo** 
 |---------------------------------------|-----------------------------------------------------------------------------|     
 | [IBM MQ](MQ/index.md)          | The “nervous system” for mission-critical applications: it moves data reliably between applications when failure is not an option.<br> If your business literally cannot afford to lose or duplicate a message → MQ is still unmatched.<br>MQ is now well into its fourth decade and remains the de-facto standard for enterprises where “it has to just work, forever”.<br><br>In this workshop we will be running MQ labs standalone in VMs.
-|---------------------------------------|-----------------------------------------------------------------------------|
-<a href="https://ibm-cloudintegration.github.io/IWHI-PoT/" target="_blank">IBM IWHI</a>           | IBM webMethods Hybrid Integration (IWHI) is a unified, AI-powered integration platform as a service (iPaaS). It unifies APIs, applications, events, B2B/EDI transactions, and legacy systems (like mainframes) into a centralized control plane, and enables enterprise workflows to connect with autonomous AI agents.<br><br>**This lab environment and labs are still being worked on** 
 |---------------------------------------|-----------------------------------------------------------------------------|
 <a href="https://ibm-cloudintegration.github.io/Aspera-pot/" target="_blank">IBM Aspera</a>           | IBM Aspera is a high-speed data transfer solution designed to move large files and massive datasets across global distances at maximum speed, regardless of file size, distance, or network conditions.<br><br>Unlike traditional transfer protocols (FTP, HTTP). IBM Aspera uses patented Fast File Transfer Technology based on the FASP@ protocol to optimize bandwidth usage and ensures reliable, and secure transfers.<br>
 |---------------------------------------|-----------------------------------------------------------------------------|     
